@@ -1,4 +1,4 @@
-# 14ksmitih
+# 14ksmith
 
 Currently a Chemist, looking to transition into Software.
 
