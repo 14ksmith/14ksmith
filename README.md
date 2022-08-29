@@ -1,6 +1,6 @@
 # 14ksmitih
 
-Hi and welcome!
+Currently a Chemist, looking to transition into Software.
 
 I am new to the world of programming, but excited to be here :)
 
