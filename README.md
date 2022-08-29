@@ -1,8 +1,8 @@
 # 14ksmith
 
-Currently a Chemist, looking to transition into Software.
+Hello, and welcome 👋🏼
 
-I am new to the world of programming, but excited to be here :)
+I am currently a Chemist, have been a Biologist, and now I am eager to start my journey in Software Development. 
 
 Please check out my pinned projects, and let me know what you think!
 
