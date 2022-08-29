@@ -8,3 +8,5 @@ Please check out my pinned projects, and let me know what you think!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14ksmith&theme=tokyonight)
+
+[comment]: <> (Profile pic by Freepik at flaticon.com)
